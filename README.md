@@ -1,4 +1,4 @@
-### <p align="center"> <Hello World! 👋 /> </p>
+### <p align="center"> <Hello World! /> </p>
 #### <p align="center"> I'm Melinda. I make websites and am passionate about all things design. 😄 </p>
 ---
 #### Some tools I enjoy using:
